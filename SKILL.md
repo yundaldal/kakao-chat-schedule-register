@@ -1,5 +1,5 @@
 ---
-name: chat-schedule-register
+name: kakao-chat-schedule-register
 description: |
   채팅 자연어로 캘린더 일정을 등록하는 통합 스킬. 카카오 캘린더(MCP 수정 불가)와 구글 캘린더(MCP 수정 가능) 모두 지원.
   등록과 함께 카카오톡 "나와의 채팅"(나챗방)으로 안내 메시지를 받도록 설정할 수 있다: 기존 아침 요약 예약 작업(kakao-calendar-daily-digest)에 포함되게 하거나, 일정 전용 나챗방 알림 예약 작업을 만든다(코워크에서는 직접 생성, 일반 채팅에서는 붙여 넣을 지시문 제공).
@@ -22,7 +22,7 @@ description: |
   단순히 "내일 회의" 같은 짧은 입력에서도 최대한 정보를 추출하고, 빠진 핵심 항목만 통합 질문으로 한 번에 확인하는 것이 이 스킬의 핵심이다. 사용자의 사고 부담을 최소화하고 등록 후 잊지 않도록 알림까지 챙겨주는 UX 최적화 스킬이다.
 ---
 
-# Chat Schedule Register
+# Kakao Chat Schedule Register
 
 > 채팅 자연어로 카카오·구글 캘린더에 일정을 등록하는 넛지 스킬
 
