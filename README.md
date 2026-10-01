@@ -34,8 +34,10 @@
 
 ## 설치
 
-1. 이 저장소를 내려받아 폴더째 압축합니다 (`SKILL.md`가 폴더 바로 안에 있어야 합니다).
-2. Claude 설정의 스킬 메뉴에서 업로드합니다.
+1. 오른쪽 **Releases**에서 최신 릴리스의 `kakao-chat-schedule-register.zip`을 내려받습니다. (압축 안의 폴더 이름이 `kakao-chat-schedule-register`로 맞춰져 있어 그대로 업로드할 수 있습니다)
+2. Claude 설정의 스킬 메뉴에서 그 zip 파일을 업로드합니다.
+
+> 초록색 **Code → Download ZIP**으로 받으면 폴더 이름이 `kakao-chat-schedule-register-main`이 되어 업로드가 막힙니다. 그 경우 압축을 풀고 폴더 이름에서 `-main`을 지운 뒤 다시 zip으로 압축하세요.
 
 ## 사용 예
 
